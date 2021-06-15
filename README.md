@@ -6,4 +6,4 @@ This project was created during my Data Visualization course at Bellevue Univeri
   2. Infographic
   3. Presentation
 
-Please explore the 3 items above to determine whether air safety is safe.
+Please explore the 3 items above to determine whether air travel is safe or not.
